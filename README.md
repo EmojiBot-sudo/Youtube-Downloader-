@@ -41,5 +41,4 @@ Includes **Light/Dark mode**, **Windows-friendly quality presets**, **skip exist
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/EmojiBot-sudo/Youtube-Downloader-
